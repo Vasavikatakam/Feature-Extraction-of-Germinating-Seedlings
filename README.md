@@ -15,3 +15,7 @@ Features are
 10)kurtosis.
 
 Programming Language Used: PYTHON
+
+Requirements to execute the code:
+
+python(version 3.5.2), tensor flow(version  1.6.0), opencv(version 3.4.0), numpy(version 1.13.3),scikit learn(version 0.19.0),pywavelets(version 0.5.2),skimage(version 0.13.1).
